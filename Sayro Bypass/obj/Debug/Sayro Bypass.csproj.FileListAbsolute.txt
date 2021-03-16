@@ -1,0 +1,7 @@
+C:\Users\bysec\source\repos\Sayro Bypass\Sayro Bypass\obj\Debug\Sayro Bypass.csprojAssemblyReference.cache
+C:\Users\bysec\source\repos\Sayro Bypass\Sayro Bypass\obj\Debug\Sayro Bypass.csproj.CoreCompileInputs.cache
+C:\Users\bysec\source\repos\Sayro Bypass\Sayro Bypass\bin\Debug\AnyDesk.exe.config
+C:\Users\bysec\source\repos\Sayro Bypass\Sayro Bypass\bin\Debug\AnyDesk.exe
+C:\Users\bysec\source\repos\Sayro Bypass\Sayro Bypass\bin\Debug\AnyDesk.pdb
+C:\Users\bysec\source\repos\Sayro Bypass\Sayro Bypass\obj\Debug\AnyDesk.exe
+C:\Users\bysec\source\repos\Sayro Bypass\Sayro Bypass\obj\Debug\AnyDesk.pdb
