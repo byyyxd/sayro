@@ -35,7 +35,6 @@ namespace Sayro_Bypass
             ap.space(3, false);
 
             ap.send(center_title + "checking useful information....");
-            //ap.send(center_title + "    - IP: " + utils.check_ip().Substring(7) + ".(censured)");
             ap.send(center_title + "    - HWID: " + utils.check_hwid().ToString().Replace("-", ""));
             ap.send(center_title + "    - Date: " + DateTime.Now);
             ap.send(center_title + "    - Status: " + utils.get_status());
